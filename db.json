@@ -1,11 +1,13 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"apid": 25,
+	"subnetorder": 0,
+	"room": "181",
+	"nasid": 82,
+	"nas": "HarryDevNZTest",
+	"timezone": "NZ",
+	"time": "2020-01-23 01:15:00",
+	"privatekey": "12345678",
+	"activeuser": "",
+	"bng": "false",
+	"template": 9
 }
